@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ver4
-=======
-ver5
->>>>>>> err_fix
+ver6
